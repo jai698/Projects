@@ -1,0 +1,9 @@
+grid auto column?
+do practice on both flex and grid properties in code?
+find out the difference between grid and inline grid?
+explore two links given in the slide.
+create your own layout using both flex and grid.
+try nested grid.
+
+difference b/w defining global variable declared in universal selector and root?
+transition assignment. Can google more for buttons.
